@@ -1,15 +1,15 @@
 
 body
 {
-margin: 0;
-	font-family: tahoma;
-	color: white;
-	background-color: #373737;
+  margin: 0;
+	font-family: Verdana,sans-serif;
+	color: black;
+	background-color: white;
 }
 
 header
 {
-background-color: #cccccc;
+background-color: white;
 height: 50px;
 
 
@@ -19,6 +19,7 @@ height: 50px;
 {
 	float: left;
 	margin-left: 30px;
+	color: black;
 
 }
 
@@ -45,7 +46,7 @@ nav
 nav a 
 {
 	text-decoration: none;
-		color: white;
+		color: black;
 }
 
 .center
@@ -62,16 +63,19 @@ nav a
 	text-align: justify;
 	float: left;
 	margin: 25px;
+	
 
 }
 
 
 .ParagraphClass h3
 {
-	background-color: #303030;
+	background-color: #white;
 	padding: 15px;
 	border-style: dashed;
 	border-width: 1px;
+
+
 }
 
 footer
@@ -83,3 +87,60 @@ footer h3
 {
 	text-align: center;
 }
+.cont {
+  position: relative;
+  text-align: center;
+  color: darkgray;
+
+font-size: 15px;
+}
+
+.botleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+
+}
+
+.about
+{
+  
+ margin-top :0;
+ padding:350px;
+ 
+
+
+}
+
+
+form
+{
+	clear: both;
+	padding: 10px;
+}
+form p 
+{
+	margin: 15px;
+
+}
+
+
+#spcolor
+{
+	color: cadetblue;
+}
+
+
+.input
+{
+
+width: 100%;
+
+
+}
+
+hr 
+{
+	clear: both;
+}
+
