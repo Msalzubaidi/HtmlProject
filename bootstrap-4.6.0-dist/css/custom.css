@@ -1,0 +1,156 @@
+.fltlft {
+  float: left;
+}
+
+body
+{
+  font-family: Georgia;
+  letter-spacing: 2px;
+}
+
+
+.bottom-left {
+  position: absolute;
+  bottom: -75px;
+  left: 16px;
+  font-size: 40px;
+  color: black;
+  opacity: 0.5;
+}
+
+.img
+{
+
+padding: 80px;
+width:600 ;
+height : 750;
+
+}
+
+.rounded 
+{
+  border-radius: 0.25rem !important;
+  padding: 80px;
+ width:600 ;
+ height : 750;
+
+}
+
+.rounded2 
+{
+  padding: 80px;
+
+  
+}
+
+.rounded2menu
+{
+  padding: 80px;
+  float: right;
+
+  
+}
+
+.par
+{
+  width:250 ;
+ height : 250;
+}
+
+.par2
+{
+  width:250 ;
+ height : 250;
+ color: grey;
+}
+
+
+hr
+{
+  clear: both;
+}
+
+.headers
+{
+  letter-spacing:2px ;
+}
+
+
+ .light-grey
+ {
+  color: lightgrey;
+  font-size: 15;
+ }
+
+ .roundedx
+ {
+  float: left;
+ }
+
+
+
+.parmenu
+{
+   
+ color: grey;
+ width: 500px;
+ height: 75px;
+}
+
+.par2menu
+{
+  width:250 ;
+ height : 250;
+ color: grey;
+}
+
+
+ .light-grey
+ {
+  color: lightgrey;
+  font-size: 15;
+ }
+
+ .roundedxmenu
+ {
+  float: right;
+
+ }
+
+#bkcolor
+{
+  background-color: rgba(0, 0, 0, 0.05);
+  font-family: tahoma;
+}
+
+.form
+{
+  padding-left: 100px;
+  padding-top: 75px;
+
+
+}
+.formp 
+{
+  font-family: times new roman;
+padding-left: 100px;
+padding-top: 20px;
+}
+
+.formpx
+{
+font-family: times new roman;
+ padding-left: 100px;
+ padding-top: 20px;
+ color: skyblue;
+ text-decoration: blink;
+
+}
+
+
+
+#contact
+{
+  padding-left: 15px;
+   padding-right: 15px;
+}
