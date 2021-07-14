@@ -55,6 +55,35 @@ html {
 
 }
 
+.solutionsfont
+{
+ padding: 25px;
+    text-align: center;
+
+}
+
+
+.ParagraphClass
+{
+  width: 350px;
+  text-align: justify;
+  float: left;
+  margin: 25px;
+  
+
+}
+
+
+.ParagraphClass h3
+{
+  background-color: #white;
+  padding: 20px;
+  border-style: dashed;
+  border-width: 1px;
+
+
+}
+
 .container {
   padding: 0 16px;
   text-align: center;
@@ -91,3 +120,16 @@ html {
     width: 100%;
     display: block;
   }
+
+.Paragraph
+{
+  width: 350px;
+  text-align: justify;
+  float: left;
+  margin: 25px;
+  padding: 15px;
+
+}
+
+
+
