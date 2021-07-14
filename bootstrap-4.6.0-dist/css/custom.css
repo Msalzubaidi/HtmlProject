@@ -1,9 +1,11 @@
-.fltlft {
+.fltlft
+{
   float: left;
 }
 
 body
 {
+  
   font-family: Georgia;
   letter-spacing: 2px;
 }
@@ -21,9 +23,9 @@ body
 .img
 {
 
-padding: 80px;
-width:600 ;
-height : 750;
+  padding: 80px;
+  width:600 ;
+  height : 750;
 
 }
 
@@ -31,8 +33,8 @@ height : 750;
 {
   border-radius: 0.25rem !important;
   padding: 80px;
- width:600 ;
- height : 750;
+  width:600 ;
+  height : 750;
 
 }
 
@@ -54,14 +56,14 @@ height : 750;
 .par
 {
   width:250 ;
- height : 250;
+  height : 250;
 }
 
 .par2
 {
   width:250 ;
- height : 250;
- color: grey;
+  height : 250;
+  color: grey;
 }
 
 
@@ -76,22 +78,22 @@ hr
 }
 
 
- .light-grey
- {
+.light-grey
+{
   color: lightgrey;
   font-size: 15;
- }
+}
 
- .roundedx
- {
+.roundedx
+{
   float: left;
- }
+}
 
 
 
 .parmenu
 {
-   
+
  color: grey;
  width: 500px;
  height: 75px;
@@ -100,22 +102,22 @@ hr
 .par2menu
 {
   width:250 ;
- height : 250;
- color: grey;
+  height : 250;
+  color: grey;
 }
 
 
- .light-grey
- {
+.light-grey
+{
   color: lightgrey;
   font-size: 15;
- }
+}
 
- .roundedxmenu
- {
+.roundedxmenu
+{
   float: right;
 
- }
+}
 
 #bkcolor
 {
@@ -133,17 +135,17 @@ hr
 .formp 
 {
   font-family: times new roman;
-padding-left: 100px;
-padding-top: 20px;
+  padding-left: 100px;
+  padding-top: 20px;
 }
 
 .formpx
 {
-font-family: times new roman;
- padding-left: 100px;
- padding-top: 20px;
- color: skyblue;
- text-decoration: blink;
+  font-family: times new roman;
+  padding-left: 100px;
+  padding-top: 20px;
+  color: skyblue;
+  text-decoration: blink;
 
 }
 
@@ -152,7 +154,7 @@ font-family: times new roman;
 #contact
 {
   padding-left: 15px;
-   padding-right: 15px;
+  padding-right: 15px;
 }
 
 .cd
