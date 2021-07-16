@@ -11,6 +11,7 @@
 #techno
 {
    padding: 25px;
+   clear: both;
     
 }
 
@@ -68,11 +69,15 @@ html {
   width: 350px;
   text-align: justify;
   float: left;
-  margin: 25px;
-  
-
+ margin: 7px;
 }
 
+.xcd
+{
+  margin-left:125px ;
+
+
+}
 
 .ParagraphClass h3
 {
@@ -130,6 +135,21 @@ html {
   padding: 15px;
 
 }
+
+.jumbotron {
+background: #358CCE;
+color: #FFF;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotron small {
+color: #FFF;
+}
+.h1 small {
+font-size: 24px;
+}
+
 
 
 
